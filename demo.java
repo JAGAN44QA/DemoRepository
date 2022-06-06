@@ -1,8 +1,11 @@
 public classs Demo {
 
+
 	public void greet(){
 	{
-	//jagan
-	System.out.println("Greet");
+
+	System.out.println("Greet"); 
+	System.out.println("Have a good day");
+
 	}
 }
